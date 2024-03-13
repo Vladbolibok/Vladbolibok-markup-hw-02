@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #e5e5e5;
+  background-color: #ffffff;
 }
 
 a {
@@ -11,6 +11,9 @@ ul,
 ol {
   list-style: none;
 }
+
+/** ==============HEADER================ */
+
 .header {
   width: 1440px;
   height: 72px;
@@ -28,7 +31,7 @@ ol {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -51,6 +54,10 @@ ol {
   color: #2e2f42;
 }
 
+.header-address {
+  font-style: normal;
+}
+
 .header-addres-link {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -59,7 +66,13 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/** ============================== */
 
+/** ==============section1================ */
+
+.hero {
+  background-color: #2e2f42;
+}
 .hero-tittle {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
@@ -72,10 +85,34 @@ ol {
 .hero-button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
+  background-color: #4d5ae5;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
+}
+
+.hero-button:hover {
+  background-color: #404bbf;
+}
+
+.hero-button:focus {
+  background-color: #404bbf;
+}
+
+.hero-button {
+  cursor: pointer;
+}
+
+/** ===================================== */
+/** ==============section2================ */
+.features-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .subtitles {
@@ -96,6 +133,9 @@ ol {
   color: #434455;
 }
 
+/** =================================== */
+/** ================section3================ */
+
 .team {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
@@ -104,6 +144,8 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  background-color: #f4f4fd;
+  text-transform: capitalize;
 }
 
 .team-subtitle {
@@ -115,15 +157,21 @@ ol {
   text-align: center;
   color: #2e2f42;
 }
+.team-item {
+  background-color: #ffffff;
+}
+
 .team-item-text {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #434455;
 }
+
+/** =================================== */
+/** ==============section4================ */
 
 .portfolio-tittle {
   font-family: "Roboto", sans-serif;
@@ -131,8 +179,8 @@ ol {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portfolio-subtittle {
@@ -151,6 +199,14 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/** ===================================== */
+
+/** ==============footer================ */
+.footer {
+  background-color: #2e2f42;
+  line-height: 1.17;
+}
+
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
