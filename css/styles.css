@@ -22,6 +22,7 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -31,6 +32,7 @@ ol {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .logo-color {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -69,7 +71,8 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/** ============================== */
+
+/** ================================== */
 
 /** ==============section1================ */
 
@@ -85,6 +88,7 @@ ol {
   text-align: center;
   color: #fff;
 }
+
 .hero-button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -195,6 +199,7 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .portfolio-item-text {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -230,6 +235,7 @@ ol {
   text-transform: uppercase;
   color: #f4f4fd;
 }
+
 .footer-logo-text {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
