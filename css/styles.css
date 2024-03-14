@@ -42,17 +42,12 @@ ol {
   color: #2e2f42;
 }
 
-.header-menu-link1 {
-  font-weight: 500;
-  color: #2e2f42;
-}
-
 .header-menu-link1:focus,
 .header-menu-link1:hover {
   color: #404bbf;
 }
 
-.header-menu-link {
+.header-menu-link1 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -61,7 +56,7 @@ ol {
   color: #2e2f42;
 }
 
-.header-menu-link1 {
+.header-menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
