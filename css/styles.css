@@ -47,16 +47,9 @@ ol {
   color: #404bbf;
 }
 
-.header-menu-link1 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.header-menu-link {
+.header-menu-link1,
+.header-menu-link2,
+.header-menu-link3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
