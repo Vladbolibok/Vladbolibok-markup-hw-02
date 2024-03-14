@@ -53,8 +53,7 @@ ol {
   color: #404bbf;
 }
 
-.header-menu-link,
-.header-menu-link1 {
+.header-menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -83,11 +82,15 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.header-addres-link:hover {
+  color: #404bbf;
+}
+.header-addres-link:focus {
+  color: #404bbf;
+}
 /** ================================== */
 
 /** ==============section1================ */
-
 .hero {
   background-color: #2e2f42;
 }
