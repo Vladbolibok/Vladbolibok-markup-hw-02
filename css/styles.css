@@ -56,6 +56,10 @@ ol {
   color: #2e2f42;
 }
 
+.studio:hover,
+.studio:focus {
+  color: #404bbf;
+}
 .header-menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
