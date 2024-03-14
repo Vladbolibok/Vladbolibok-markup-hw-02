@@ -44,6 +44,11 @@ ol {
 .header-menu-link1:hover {
   color: #404bbf;
 }
+
+.header-menu-link1 {
+  font-weight: 500;
+  color: #2e2f42;
+}
 .header-menu-link1:focus {
   color: #404bbf;
 }
@@ -249,7 +254,7 @@ ol {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.17;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  line-height: 1.5;
 }
