@@ -53,7 +53,8 @@ ol {
   color: #404bbf;
 }
 
-.header-menu-link {
+.header-menu-link,
+.header-menu-link1 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
