@@ -42,8 +42,8 @@ ol {
   color: #2e2f42;
 }
 
-.header-menu-link1:focus,
-.header-menu-link1:hover {
+.header-menu-link:focus,
+.header-menu-link:hover {
   color: #404bbf;
 }
 
@@ -81,12 +81,7 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-addres-link:hover {
-  color: #404bbf;
-}
-.header-addres-link:focus {
-  color: #404bbf;
-}
+
 /** ================================== */
 
 /** ==============section1================ */
