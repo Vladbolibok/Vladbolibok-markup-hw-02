@@ -42,11 +42,6 @@ ol {
   color: #2e2f42;
 }
 
-.header-menu-link:focus,
-.header-menu-link:hover {
-  color: #404bbf;
-}
-
 .studio {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -56,11 +51,14 @@ ol {
   color: #2e2f42;
 }
 
-.studio:hover,
+.studio:hover {
+  color: #404bbf;
+}
+
 .studio:focus {
   color: #404bbf;
 }
-.studio,
+
 .header-menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
