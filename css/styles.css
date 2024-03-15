@@ -60,6 +60,7 @@ ol {
 .studio:focus {
   color: #404bbf;
 }
+.studio,
 .header-menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
