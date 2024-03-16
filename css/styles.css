@@ -69,16 +69,24 @@ ol {
   color: #434455;
 }
 
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: #404bbf;
+}
+
 .header-menu-item:hover,
 .header-menu-item:focus {
   color: #404bbf;
 }
-
 .header-address-link:hover,
 .header-address-link:focus {
   color: #404bbf;
 }
 
+.header-addres-item:hover,
+.header-addres-item:focus {
+  color: #404bbf;
+}
 /** ================================== */
 
 /** ==============section1================ */
